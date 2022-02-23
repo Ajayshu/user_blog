@@ -8,3 +8,5 @@ also created one mode and it's name is Student;
 then i have created all view files in resources/views/student;
 i have created 3 files such as create,index and edit;
 also cereated one master file in view root folder in which i have included bootstrap.
+please follow below link for project http://127.0.0.1:8000/student/
+
